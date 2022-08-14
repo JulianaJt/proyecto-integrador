@@ -1,6 +1,6 @@
 # proyecto-integrador
--tematica y descricpcion del sitio : venta de productos de belleza 
-- Publico objetivo: personas mayores de 16 años
+-temática y descricpción del sitio : venta de productos de belleza 
+- Público objetivo: personas mayores de 16 años
 - Listado de 5 páginas referentes en las que se basa su proyecto:
 1. https://www.naturacosmeticos.com.ar/c/nuestros-productos
 2. https://www.lorealprofessionnel.com.ar/tratamientos
@@ -10,4 +10,5 @@
 - Listado del grupo con una breve descripción de cada uno
 CARLOS : TENGO 32 AÑOS. ME GUSTA EL CAMPO. SOY DOCENTE. TENGO 3 HIJOS Y ME ENCANTA EL ASADO.
 Ailen Benitez: tengo 23 años, soy de zarate. Estudio ingeniería en sistemas. Me gusta leer mangas y libros, además de ver anime. También me gusta cocinar especialmente postres.
+Juliana Trujillo: Tengo 23 años, estudio Economía. Me encanta el vallenato y Atlético Nacional.
 - Link del tablero de trabajo en donde se encuentran trabajando: https://discord.gg/63GykmcT
