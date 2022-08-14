@@ -1,6 +1,6 @@
 # proyecto-integrador
 -tematica y descricpcion del sitio : venta de productos de belleza 
-- Publico objetivo: 
+- Publico objetivo: personas mayores de 16 años
 - Listado de 5 páginas referentes en las que se basa su proyecto:
 1. https://www.naturacosmeticos.com.ar/c/nuestros-productos
 2. https://www.lorealprofessionnel.com.ar/tratamientos
