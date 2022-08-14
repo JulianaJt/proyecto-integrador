@@ -6,6 +6,6 @@
 2. https://www.lorealprofessionnel.com.ar/tratamientos
 3. https://www.millanel.com/cosmeticos-por-catalogo/maquillaje/21
 4. https://www.violettacosmeticos.com/
-5. 
+5. https://www.maybelline.es/
 - Listado del grupo con una breve descripción de cada uno
 - Link del tablero de trabajo en donde se encuentran trabajando
