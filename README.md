@@ -9,4 +9,5 @@
 5. https://www.maybelline.es/
 - Listado del grupo con una breve descripción de cada uno
 CARLOS : TENGO 32 AÑOS. ME GUSTA EL CAMPO. SOY DOCENTE. TENGO 3 HIJOS Y ME ENCANTA EL ASADO.
+Ailen Benitez: tengo 23 años, soy de zarate. Estudio ingeniería en sistemas. Me gusta leer mangas y libros, además de ver anime. También me gusta cocinar especialmente postres.
 - Link del tablero de trabajo en donde se encuentran trabajando
