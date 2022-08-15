@@ -11,4 +11,5 @@
 CARLOS : TENGO 32 AÑOS. ME GUSTA EL CAMPO. SOY DOCENTE. TENGO 3 HIJOS Y ME ENCANTA EL ASADO.
 Ailen Benitez: tengo 23 años, soy de zarate. Estudio ingeniería en sistemas. Me gusta leer mangas y libros, además de ver anime. También me gusta cocinar especialmente postres.
 Juliana Trujillo: Tengo 23 años, estudio Economía. Me encanta el vallenato y Atlético Nacional.
+Marina Quinteros:tengo 20 años. estudio diseño grafico. me gusta el rock y el pop en ingles. me gusta leer mangas,  pintar y dibujar.
 - Link del tablero de trabajo en donde se encuentran trabajando: https://discord.gg/63GykmcT
