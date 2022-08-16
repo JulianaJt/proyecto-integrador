@@ -12,7 +12,7 @@ Listado de 5 páginas referentes en las que se basa su proyecto:
 6. https://hellobubble.com/#
 
 Listado del grupo con una breve descripción de cada uno:
-- Carlos: Tengo 32 años. Me gusta el campo. Soy docente. Tengo 3 hijos me encanta el asado.
+- Carlos Oviedo: Tengo 32 años. Me gusta el campo. Soy docente. Tengo 3 hijos me encanta el asado.
 - Ailen Benitez: tengo 23 años, soy de zarate. Estudio ingeniería en sistemas. Me gusta leer mangas y libros, además de ver anime. También me gusta cocinar especialmente postres.
 - Juliana Trujillo: Tengo 23 años, estudio Economía. Me encanta el vallenato y Atlético Nacional.
 - Mariana Quintero Agudelo: Tengo 20 años, soy colombiana y estudio diseño grafico. Me gusta el rock y el pop en ingles, además me gusta leer mangas, ver anime, pintar y dibujar.
