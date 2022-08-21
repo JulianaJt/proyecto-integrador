@@ -1,7 +1,7 @@
 # proyecto-integrador
-Temática y descricpción del sitio : venta de productos de belleza (Skincare).
+Temática y descricpción del sitio : venta de productos de belleza (Skincare).productos de belleza para todas las edades, cubriendo las zna de toda america del sur. Son prodiuctos a base natural y no testeados en animales, sin quimicos toxicos. Los mejores precios del mercado y con varios medios de pago 
 
-Público objetivo: todas las edades()
+Público objetivo: todas las edades(sin productos toxicos)
 
 Listado de 5 páginas referentes en las que se basa su proyecto:
 1. https://www.naturacosmeticos.com.ar/c/nuestros-productos
