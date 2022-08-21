@@ -1,5 +1,5 @@
 # proyecto-integrador
-Temática y descricpción del sitio : venta de productos de belleza (Skincare).productos de belleza para todas las edades, cubriendo las zona de toda america del sur. Son prodiuctos a base natural y no testeados en animales, sin quimicos toxicos. Los mejores precios del mercado y con varios medios de pago 
+Temática y descricpción del sitio : venta de productos de belleza (Skincare).Productos de belleza para todas las edades, cubriendo las zona de toda america del sur. Son productos a base natural y no testeados en animales, sin quimicos toxicos. Los mejores precios del mercado y con varios medios de pago 
 
 Público objetivo: todas las edades(sin productos toxicos)
 
