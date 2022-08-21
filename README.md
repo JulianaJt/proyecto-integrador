@@ -1,7 +1,7 @@
 # proyecto-integrador
 Temática y descricpción del sitio : venta de productos de belleza (Skincare).
 
-Público objetivo: personas mayores de 16 años.
+Público objetivo: todas las edades()
 
 Listado de 5 páginas referentes en las que se basa su proyecto:
 1. https://www.naturacosmeticos.com.ar/c/nuestros-productos
