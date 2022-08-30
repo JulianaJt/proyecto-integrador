@@ -16,5 +16,6 @@ Listado del grupo con una breve descripción de cada uno:
 - Ailen Benitez: tengo 23 años, soy de zarate. Estudio ingeniería en sistemas. Me gusta leer mangas y libros, además de ver anime. También me gusta cocinar especialmente postres.
 - Juliana Trujillo: Tengo 23 años, estudio Economía. Me encanta el vallenato y Atlético Nacional.
 - Mariana Quintero Agudelo: Tengo 20 años, soy colombiana y estudio diseño grafico. Me gusta el rock y el pop en ingles, además me gusta leer mangas, ver anime, pintar y dibujar.
+- Lorena Cardenas: Colombiana, bioingeniería de profesión con experiencia en la formulación y desarrollo de proyectos investigativos con énfasis en el área Clínica e imágenes diagnósticas. Cuenta con la capacidad de brindar soporte técnico a equipos y dispositivos médicos, realizar capacitación a personal asistencial enfocadas en las buenas prácticas de uso. Adicionalmente, le apasiona la programación, los animales y la comida. 
 
 Link del tablero de trabajo en donde se encuentran trabajando: (https://trello.com/invite/b/N9qQkXNC/1511830828485cfe158efc3b1310c47a/spring)
